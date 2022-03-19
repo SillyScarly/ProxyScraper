@@ -18,3 +18,4 @@ Step 6: Check your folder that contains the main.py application and your proxies
 Step 7: Enjoy!!!
 
 Discord : SillyScarly#0001
+---------------------------------------------------------------
