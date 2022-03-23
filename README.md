@@ -7,7 +7,8 @@ Step 1: Install python 3 on pythons website python.org
 
 Step 2: During the installation process press add to path option and install python
 
-Step 3: Pip install these requirements in cmd "pip install colorama" "pip install pyfiglet"
+Step 3: Pip install these requirements in cmd "pip install colorama" "pip install pyfiglet" "pip install Fore" and
+"pip install figlet"
 
 Step 4: After installing the required modules, run main.py 
 
