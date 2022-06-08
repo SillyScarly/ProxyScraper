@@ -8,7 +8,7 @@ from colorama import Fore
 from pyfiglet import Figlet
 import webbrowser
 
-webbrowser.open('https://discord.gg/nc9NMZYKRC')
+webbrowser.open('https://discord.gg/yUP8SUrFar')
 
 os.system('cls')
 
